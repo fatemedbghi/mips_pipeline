@@ -1,0 +1,151 @@
+D:/Uni/98-2/CA/Projects/CA4/registerFile.v {1 {vlog -work work D:/Uni/98-2/CA/Projects/CA4/registerFile.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module regFile
+
+Top level modules:
+	regFile
+
+} {} {}} D:/Uni/98-2/CA/Projects/CA4/shifter.v {1 {vlog -work work D:/Uni/98-2/CA/Projects/CA4/shifter.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module shl2
+
+Top level modules:
+	shl2
+
+} {} {}} D:/Uni/98-2/CA/Projects/CA4/MEM-WB.v {1 {vlog -work work D:/Uni/98-2/CA/Projects/CA4/MEM-WB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module memwb
+
+Top level modules:
+	memwb
+
+} {} {}} D:/Uni/98-2/CA/Projects/CA4/ID-EX.v {1 {vlog -work work D:/Uni/98-2/CA/Projects/CA4/ID-EX.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module idex
+
+Top level modules:
+	idex
+
+} {} {}} D:/Uni/98-2/CA/Projects/CA4/piplelinetb.v {1 {vlog -work work D:/Uni/98-2/CA/Projects/CA4/piplelinetb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TB
+
+Top level modules:
+	TB
+
+} {} {}} D:/Uni/98-2/CA/Projects/CA4/dataMem.v {1 {vlog -work work D:/Uni/98-2/CA/Projects/CA4/dataMem.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module dataMem
+
+Top level modules:
+	dataMem
+
+} {} {}} D:/Uni/98-2/CA/Projects/CA4/IF-ID.v {1 {vlog -work work D:/Uni/98-2/CA/Projects/CA4/IF-ID.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ifid
+
+Top level modules:
+	ifid
+
+} {} {}} D:/Uni/98-2/CA/Projects/CA4/signExtend.v {1 {vlog -work work D:/Uni/98-2/CA/Projects/CA4/signExtend.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module sgnExt26
+-- Compiling module sgnExt16
+
+Top level modules:
+	sgnExt26
+	sgnExt16
+
+} {} {}} D:/Uni/98-2/CA/Projects/CA4/EX-MEM.v {1 {vlog -work work D:/Uni/98-2/CA/Projects/CA4/EX-MEM.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module exmem
+
+Top level modules:
+	exmem
+
+} {} {}} D:/Uni/98-2/CA/Projects/CA4/mux.v {1 {vlog -work work D:/Uni/98-2/CA/Projects/CA4/mux.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RegDstMUX
+-- Compiling module MemToRegMux
+-- Compiling module AluMux
+-- Compiling module ThreeBitMux
+
+Top level modules:
+	RegDstMUX
+	MemToRegMux
+	AluMux
+	ThreeBitMux
+
+} {} {}} D:/Uni/98-2/CA/Projects/CA4/alu.v {1 {vlog -work work D:/Uni/98-2/CA/Projects/CA4/alu.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} D:/Uni/98-2/CA/Projects/CA4/pc.v {1 {vlog -work work D:/Uni/98-2/CA/Projects/CA4/pc.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module pcReg
+
+Top level modules:
+	pcReg
+
+} {} {}} D:/Uni/98-2/CA/Projects/CA4/Controller.v {1 {vlog -work work D:/Uni/98-2/CA/Projects/CA4/Controller.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} D:/Uni/98-2/CA/Projects/CA4/instMem.v {1 {vlog -work work D:/Uni/98-2/CA/Projects/CA4/instMem.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module instMem
+
+Top level modules:
+	instMem
+
+} {} {}} D:/Uni/98-2/CA/Projects/CA4/ALUcontroller.v {1 {vlog -work work D:/Uni/98-2/CA/Projects/CA4/ALUcontroller.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module aluController
+
+Top level modules:
+	aluController
+
+} {} {}} D:/Uni/98-2/CA/Projects/CA4/pipeline.v {1 {vlog -work work D:/Uni/98-2/CA/Projects/CA4/pipeline.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PipeLine
+
+Top level modules:
+	PipeLine
+
+} {} {}} D:/Uni/98-2/CA/Projects/CA4/HzdUnit.v {1 {vlog -work work D:/Uni/98-2/CA/Projects/CA4/HzdUnit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module hazarder
+
+Top level modules:
+	hazarder
+
+} {} {}} D:/Uni/98-2/CA/Projects/CA4/datapath.v {1 {vlog -work work D:/Uni/98-2/CA/Projects/CA4/datapath.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DataPath
+
+Top level modules:
+	DataPath
+
+} {} {}} D:/Uni/98-2/CA/Projects/CA4/adder.v {1 {vlog -work work D:/Uni/98-2/CA/Projects/CA4/adder.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Adder
+-- Compiling module pcAdder
+
+Top level modules:
+	Adder
+	pcAdder
+
+} {} {}} D:/Uni/98-2/CA/Projects/CA4/FwdUnit.v {1 {vlog -work work D:/Uni/98-2/CA/Projects/CA4/FwdUnit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module forwarder
+
+Top level modules:
+	forwarder
+
+} {} {}}

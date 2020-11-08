@@ -1,0 +1,496 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Uni\98-2\CA\Projects\CA5
+vAdder
+Z1 !s100 5d`^Z9UX]oAFM09e>8_2<0
+Z2 IoIbH9e7iL7BG3S1L?Emze3
+Z3 Vn;;>PD@VIfYV=X][REIV50
+Z4 dD:\Uni\98-2\CA\Projects\CA4
+Z5 w1596441442
+Z6 8D:/Uni/98-2/CA/Projects/CA4/adder.v
+Z7 FD:/Uni/98-2/CA/Projects/CA4/adder.v
+L0 2
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s108 1596557006.312000
+Z10 !s107 D:/Uni/98-2/CA/Projects/CA4/adder.v|
+Z11 !s90 -reportprogress|300|-work|work|D:/Uni/98-2/CA/Projects/CA4/adder.v|
+Z12 o-work work -O0
+Z13 n@adder
+!i10b 1
+!s85 0
+!s101 -O0
+valu
+Z14 !s100 i?E1X]=7TVGT=48kZe3]A3
+Z15 IzLoTMWl2f4A8KWmiedzXD0
+Z16 V<;2hPM[bAPJ_3z10WflMb2
+R4
+Z17 w1596466086
+Z18 8D:/Uni/98-2/CA/Projects/CA4/alu.v
+Z19 FD:/Uni/98-2/CA/Projects/CA4/alu.v
+L0 2
+R8
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|D:/Uni/98-2/CA/Projects/CA4/alu.v|
+R12
+Z21 !s108 1596557006.433000
+Z22 !s107 D:/Uni/98-2/CA/Projects/CA4/alu.v|
+!i10b 1
+!s85 0
+!s101 -O0
+valuController
+Z23 !s100 FYQ<Lzf=VC;;QVc3033:J1
+Z24 Ia>8RBQJmR:09VU5o2<:NU2
+Z25 V_451b0X33=3JzK`hSA2TD3
+R4
+Z26 w1596553199
+Z27 8D:/Uni/98-2/CA/Projects/CA4/ALUcontroller.v
+Z28 FD:/Uni/98-2/CA/Projects/CA4/ALUcontroller.v
+L0 2
+R8
+r1
+31
+Z29 !s90 -reportprogress|300|-work|work|D:/Uni/98-2/CA/Projects/CA4/ALUcontroller.v|
+R12
+Z30 nalu@controller
+Z31 !s108 1596557006.524000
+Z32 !s107 D:/Uni/98-2/CA/Projects/CA4/ALUcontroller.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vAluMux
+Z33 !s100 zF07<ZLDQFaBj5cmZ_oA23
+Z34 IQ1mM:aORZ1MOEz3=b^MW[1
+Z35 VaeO?5B_53O07^Ccfoglf83
+R4
+Z36 w1596443824
+Z37 8D:/Uni/98-2/CA/Projects/CA4/mux.v
+Z38 FD:/Uni/98-2/CA/Projects/CA4/mux.v
+L0 10
+R8
+r1
+31
+Z39 !s108 1596557007.480000
+Z40 !s107 D:/Uni/98-2/CA/Projects/CA4/mux.v|
+Z41 !s90 -reportprogress|300|-work|work|D:/Uni/98-2/CA/Projects/CA4/mux.v|
+R12
+Z42 n@alu@mux
+!i10b 1
+!s85 0
+!s101 -O0
+vcontroller
+Z43 !s100 z[Ri68HL2JGEKE>GmffLn2
+Z44 Ia>>zjEd3dQ0;6L_@3;aNn3
+Z45 VPniWdM:gkE>lSk<mfza4b1
+R4
+Z46 w1596522084
+Z47 8D:/Uni/98-2/CA/Projects/CA4/Controller.v
+Z48 FD:/Uni/98-2/CA/Projects/CA4/Controller.v
+L0 2
+R8
+r1
+31
+Z49 !s90 -reportprogress|300|-work|work|D:/Uni/98-2/CA/Projects/CA4/Controller.v|
+R12
+Z50 !s108 1596557006.616000
+Z51 !s107 D:/Uni/98-2/CA/Projects/CA4/Controller.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdataMem
+Z52 !s100 g7b7A:K41YaS5MhdYZ0[>0
+Z53 I0j0i:2;50P`KGaEJ9JEK^1
+Z54 V[;l?cZ8L>UUcMSF2o]Ijl3
+R4
+Z55 w1596553954
+Z56 8D:/Uni/98-2/CA/Projects/CA4/dataMem.v
+Z57 FD:/Uni/98-2/CA/Projects/CA4/dataMem.v
+L0 2
+R8
+r1
+31
+Z58 !s90 -reportprogress|300|-work|work|D:/Uni/98-2/CA/Projects/CA4/dataMem.v|
+R12
+Z59 ndata@mem
+Z60 !s108 1596557006.702000
+Z61 !s107 D:/Uni/98-2/CA/Projects/CA4/dataMem.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDataPath
+Z62 !s100 <^TXbzfFccGF;8L9mlOWl1
+Z63 Im^g_>RX6UKgcPX3FoHj5]2
+Z64 VMKAhNGA6h]V6HkW;JYEC@1
+R4
+Z65 w1596551501
+Z66 8D:/Uni/98-2/CA/Projects/CA4/datapath.v
+Z67 FD:/Uni/98-2/CA/Projects/CA4/datapath.v
+L0 2
+R8
+r1
+31
+Z68 !s90 -reportprogress|300|-work|work|D:/Uni/98-2/CA/Projects/CA4/datapath.v|
+R12
+Z69 n@data@path
+Z70 !s108 1596557006.789000
+Z71 !s107 D:/Uni/98-2/CA/Projects/CA4/datapath.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vexmem
+Z72 !s100 6FS]c^f4]md`>@go^AkcF1
+Z73 IGe_67Df;@V<RjdY;dP1?F0
+Z74 VUG=ngjmk9S^n;i`gN9zSS3
+R4
+Z75 w1596464524
+Z76 8D:/Uni/98-2/CA/Projects/CA4/EX-MEM.v
+Z77 FD:/Uni/98-2/CA/Projects/CA4/EX-MEM.v
+L0 2
+R8
+r1
+31
+Z78 !s90 -reportprogress|300|-work|work|D:/Uni/98-2/CA/Projects/CA4/EX-MEM.v|
+R12
+Z79 !s108 1596557006.878000
+Z80 !s107 D:/Uni/98-2/CA/Projects/CA4/EX-MEM.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vforwarder
+Z81 !s100 =LaRmg??SKFTogR2[RS572
+Z82 IDWWVNM1Tn>NO[jSQ:g;D13
+Z83 VzHgPF^f58CRL9H0`JldDz2
+R4
+Z84 w1596549043
+Z85 8D:/Uni/98-2/CA/Projects/CA4/FwdUnit.v
+Z86 FD:/Uni/98-2/CA/Projects/CA4/FwdUnit.v
+L0 1
+R8
+r1
+31
+Z87 !s90 -reportprogress|300|-work|work|D:/Uni/98-2/CA/Projects/CA4/FwdUnit.v|
+R12
+Z88 !s108 1596557006.957000
+Z89 !s107 D:/Uni/98-2/CA/Projects/CA4/FwdUnit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vhazarder
+Z90 !s100 DBh<:z1ZldZ>g@PjTH0LC0
+Z91 IQ@[Df8Qb21^Z1j_OMV_S30
+Z92 VgJ_>D_0]2oDjZN<BgzCV73
+R4
+Z93 w1596524421
+Z94 8D:/Uni/98-2/CA/Projects/CA4/HzdUnit.v
+Z95 FD:/Uni/98-2/CA/Projects/CA4/HzdUnit.v
+L0 1
+R8
+r1
+31
+Z96 !s90 -reportprogress|300|-work|work|D:/Uni/98-2/CA/Projects/CA4/HzdUnit.v|
+R12
+Z97 !s108 1596557007.049000
+Z98 !s107 D:/Uni/98-2/CA/Projects/CA4/HzdUnit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+videx
+Z99 !s100 nhiGiDSGZCJ<2O_IZ5H671
+Z100 IiTgni1L5dAXKEXZV:`Z9^0
+Z101 VTn3OCEcK=MAP8E4Ln7Cj72
+R4
+Z102 w1596547157
+Z103 8D:/Uni/98-2/CA/Projects/CA4/ID-EX.v
+Z104 FD:/Uni/98-2/CA/Projects/CA4/ID-EX.v
+L0 2
+R8
+r1
+31
+Z105 !s90 -reportprogress|300|-work|work|D:/Uni/98-2/CA/Projects/CA4/ID-EX.v|
+R12
+Z106 !s108 1596557007.139000
+Z107 !s107 D:/Uni/98-2/CA/Projects/CA4/ID-EX.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vifid
+Z108 !s100 `ATC2M>ebDcA[K5ak?m5O2
+Z109 IheQC?Cd]PMRfIjC3kQ44;3
+Z110 VlHn4dWV3>S3eUNiJ`K6WZ1
+R4
+Z111 w1596551470
+Z112 8D:/Uni/98-2/CA/Projects/CA4/IF-ID.v
+Z113 FD:/Uni/98-2/CA/Projects/CA4/IF-ID.v
+L0 2
+R8
+r1
+31
+Z114 !s90 -reportprogress|300|-work|work|D:/Uni/98-2/CA/Projects/CA4/IF-ID.v|
+R12
+Z115 !s108 1596557007.221000
+Z116 !s107 D:/Uni/98-2/CA/Projects/CA4/IF-ID.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vinstMem
+Z117 !s100 81A4SYKB2<T76FPA`W=150
+Z118 I`AELofo3^EC<B2Gi386iS0
+Z119 VdC[AQ_7d7n>EhHW@>=oEM3
+R4
+Z120 w1596556865
+Z121 8D:/Uni/98-2/CA/Projects/CA4/instMem.v
+Z122 FD:/Uni/98-2/CA/Projects/CA4/instMem.v
+L0 2
+R8
+r1
+31
+Z123 !s90 -reportprogress|300|-work|work|D:/Uni/98-2/CA/Projects/CA4/instMem.v|
+R12
+Z124 ninst@mem
+Z125 !s108 1596557007.307000
+Z126 !s107 D:/Uni/98-2/CA/Projects/CA4/instMem.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMemToRegMux
+Z127 !s100 o<XL?hK2YnUkTheL;mHdB2
+Z128 IaV9=I?JMgJoOYIhB75>bk1
+Z129 V6?M7EOzzk^fg`QJ^GNJ>h1
+R4
+R36
+R37
+R38
+L0 6
+R8
+r1
+31
+R39
+R40
+R41
+R12
+Z130 n@mem@to@reg@mux
+!i10b 1
+!s85 0
+!s101 -O0
+vmemwb
+Z131 !s100 gIlRRK<?BAfe;j5gUcLMm3
+Z132 Ijk`g7H>zb5Q^nBJJJa@bm3
+Z133 V=E3R44BLc;EZEkj9S304=1
+R4
+Z134 w1596451565
+Z135 8D:/Uni/98-2/CA/Projects/CA4/MEM-WB.v
+Z136 FD:/Uni/98-2/CA/Projects/CA4/MEM-WB.v
+L0 2
+R8
+r1
+31
+Z137 !s90 -reportprogress|300|-work|work|D:/Uni/98-2/CA/Projects/CA4/MEM-WB.v|
+R12
+Z138 !s108 1596557007.396000
+Z139 !s107 D:/Uni/98-2/CA/Projects/CA4/MEM-WB.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vpcAdder
+Z140 !s100 _<`jnD91GQmKzac`N@=4A3
+Z141 I[1lYF6CaY[e6hGE?[cDL]3
+Z142 Vm1_bZYeLXjfF?`N1@OW=S2
+R4
+R5
+R6
+R7
+L0 6
+R8
+r1
+31
+R9
+R10
+R11
+R12
+Z143 npc@adder
+!i10b 1
+!s85 0
+!s101 -O0
+vpcReg
+Z144 !s100 zY1NbLel;PK<H:UABaX]]3
+Z145 I5La7?TXcL3M=YDM[m<h;50
+Z146 Vc`Kn?05cONk?Nlm5n=1Nj2
+R4
+Z147 w1596441101
+Z148 8D:/Uni/98-2/CA/Projects/CA4/pc.v
+Z149 FD:/Uni/98-2/CA/Projects/CA4/pc.v
+L0 1
+R8
+r1
+31
+Z150 !s90 -reportprogress|300|-work|work|D:/Uni/98-2/CA/Projects/CA4/pc.v|
+R12
+Z151 npc@reg
+Z152 !s108 1596557007.627000
+Z153 !s107 D:/Uni/98-2/CA/Projects/CA4/pc.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vPipeLine
+Z154 !s100 UVi^2eS]9HUo:IK7[:OAz1
+Z155 IGX?HM3aMf5Qg@1YhVmmAi2
+Z156 VjKHMVD9UMUhzcCJMU4B@[2
+R4
+Z157 w1596551649
+Z158 8D:/Uni/98-2/CA/Projects/CA4/pipeline.v
+Z159 FD:/Uni/98-2/CA/Projects/CA4/pipeline.v
+L0 2
+R8
+r1
+31
+Z160 !s90 -reportprogress|300|-work|work|D:/Uni/98-2/CA/Projects/CA4/pipeline.v|
+R12
+Z161 n@pipe@line
+Z162 !s108 1596557007.699000
+Z163 !s107 D:/Uni/98-2/CA/Projects/CA4/pipeline.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRegDstMUX
+Z164 !s100 aKEBdA?5be[aMfZhjiFV<3
+Z165 IJMh4nm]6jJL[cS6;<RCW=3
+Z166 VD=LzIb8Uhd4O6:;7MnNOa2
+R4
+R36
+R37
+R38
+L0 2
+R8
+r1
+31
+R39
+R40
+R41
+R12
+Z167 n@reg@dst@m@u@x
+!i10b 1
+!s85 0
+!s101 -O0
+vregFile
+Z168 !s100 IKdcVWIUNfN5`8Fm3m^hz2
+Z169 I7TkYe3W1e3Qn2EDV]3NT13
+Z170 Vi3Xbz[F]dP6IERmkM22N63
+R4
+Z171 w1596548577
+Z172 8D:/Uni/98-2/CA/Projects/CA4/registerFile.v
+Z173 FD:/Uni/98-2/CA/Projects/CA4/registerFile.v
+L0 1
+R8
+r1
+31
+Z174 !s90 -reportprogress|300|-work|work|D:/Uni/98-2/CA/Projects/CA4/registerFile.v|
+R12
+Z175 nreg@file
+Z176 !s108 1596557007.840000
+Z177 !s107 D:/Uni/98-2/CA/Projects/CA4/registerFile.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsgnExt16
+!i10b 1
+Z178 !s100 E6W<aW92L`3I9?j]J89]P0
+Z179 IXkIGlIIb8ceI4lZKm?V893
+Z180 VYV5CEolP0DY`QVWbeNK@10
+R4
+Z181 w1596442842
+Z182 8D:/Uni/98-2/CA/Projects/CA4/signExtend.v
+Z183 FD:/Uni/98-2/CA/Projects/CA4/signExtend.v
+L0 6
+R8
+r1
+!s85 0
+31
+Z184 !s108 1596557007.987000
+Z185 !s107 D:/Uni/98-2/CA/Projects/CA4/signExtend.v|
+Z186 !s90 -reportprogress|300|-work|work|D:/Uni/98-2/CA/Projects/CA4/signExtend.v|
+!s101 -O0
+R12
+Z187 nsgn@ext16
+vsgnExt26
+!i10b 1
+Z188 !s100 l=fc>@VR2P_]Vl[1;mgeM2
+Z189 I^lYNe@2ozija[lG4RDmJF3
+Z190 VCXn>[izkTY;VLAb?9o=l91
+R4
+R181
+R182
+R183
+L0 2
+R8
+r1
+!s85 0
+31
+R184
+R185
+R186
+!s101 -O0
+R12
+Z191 nsgn@ext26
+vshl2
+Z192 !s100 nnlT:6LW8To9NTLQ>3;:e2
+Z193 IbNO;^6]k5DzhPIhIo377@2
+Z194 VcCo?aA5fOlRDo?6GXOGMn0
+R4
+Z195 w1596441823
+Z196 8D:/Uni/98-2/CA/Projects/CA4/shifter.v
+Z197 FD:/Uni/98-2/CA/Projects/CA4/shifter.v
+L0 2
+R8
+r1
+31
+Z198 !s90 -reportprogress|300|-work|work|D:/Uni/98-2/CA/Projects/CA4/shifter.v|
+R12
+!i10b 1
+!s85 0
+Z199 !s108 1596557007.917000
+Z200 !s107 D:/Uni/98-2/CA/Projects/CA4/shifter.v|
+!s101 -O0
+vTB
+Z201 !s100 dkN0EglDg<lM6@NFaXR4J3
+Z202 ITU5zKJ_2Y;lD_<K>G6g@U3
+Z203 Vc<=32996OT2f`M7E_UhYX1
+R4
+Z204 w1596542907
+Z205 8D:/Uni/98-2/CA/Projects/CA4/piplelinetb.v
+Z206 FD:/Uni/98-2/CA/Projects/CA4/piplelinetb.v
+L0 1
+R8
+r1
+31
+Z207 !s90 -reportprogress|300|-work|work|D:/Uni/98-2/CA/Projects/CA4/piplelinetb.v|
+R12
+n@t@b
+Z208 !s108 1596557007.769000
+Z209 !s107 D:/Uni/98-2/CA/Projects/CA4/piplelinetb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vThreeBitMux
+Z210 !s100 04?AZ];bf1Z;A_>EH<@<V1
+Z211 I?7G@b18;5H>SVz6KGAdM50
+Z212 V50S:E4ZBkd;X606JzPbPZ0
+R4
+R36
+R37
+R38
+L0 14
+R8
+r1
+31
+R39
+R40
+R41
+R12
+Z213 n@three@bit@mux
+!i10b 1
+!s85 0
+!s101 -O0
